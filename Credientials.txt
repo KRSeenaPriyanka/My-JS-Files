@@ -1,0 +1,11 @@
+MS Dynamics CRM 2013 Production: https://peiacrm.wv.gov
+
+MS Dynamics 365 Dev: http://otb6crm365t01v/PEIA
+
+ 
+
+VPN and CRM login
+
+User - V007685@wv.gov
+
+Password - kiTTy@#off
